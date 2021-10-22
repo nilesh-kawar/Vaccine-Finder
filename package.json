@@ -1,7 +1,7 @@
 {
-  "name": "deploy-test",
+  "name": "Vaccine-Finder",
   "version": "1.0.0",
-  "description": "",
+  "description": "Telegram bot that sends a notification to the user about slots available on the CoWIN portal for coronavirus vaccination.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
