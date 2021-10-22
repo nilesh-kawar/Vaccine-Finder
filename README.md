@@ -40,6 +40,16 @@ I have developed a telegram bot that sends a notification to the user about slot
  node index.js
  ```
  
+ <hr>
  
+ ## How to use Vaccine Finder
+ https://www.youtube.com/watch?v=jInQx9Uh5Jc&t=43s
+ 
+ 
+ ## Screeshots:
+ 
+ <img src="https://github.com/nilesh-kawar/Vaccine-Finder/blob/main/screenshot.png"/>
+ 
+ Thank you 🙏🏻
  
 
