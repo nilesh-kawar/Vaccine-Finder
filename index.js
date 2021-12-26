@@ -16,7 +16,7 @@ const {getOldSlots, updateNewSlots} = require('./util/dbmodules');
 let telegram_url = `https://api.telegram.org/bot${API_TOKEN}/sendMessage`
 
 
-// Main Function 
+// Function: Update data every 10 second 
 const job = schedule.scheduleJob('*/10 * * * * *', function(){
     (async () => {
         const oldData = await getOldSlots(chat_id);
